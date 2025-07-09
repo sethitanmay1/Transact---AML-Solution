@@ -72,7 +72,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* Ernest Namdar - [@LinkedIn](https://www.linkedin.com/in/ernest-namdar/) - ernest.namdar@utoronto.ca
+* Tanmay Sethi - [@LinkedIn](https://www.linkedin.com/in/Tanmay-Sethi/) - tanmay.sethi@rotman.utoronto.ca
 
 Project Link: [https://github.com/knamdar/IMI_BigData_AI_Hub_Competition_2024_2025](https://github.com/knamdar/IMI_BigData_AI_Hub_Competition_2024_2025)
 
